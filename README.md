@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">👋 Hi, I'm Saadat Khan — a passionate Computer Science and Enginering undergrad from Bangladesh.</h2>
+<h2 align="left">👋 Hi, I'm Saadat Khan — a passionate Computer Science and Engineering undergrad from Bangladesh.</h2>
 <h4 align="left">🌱 Currently focused on Web Development, Frontend Frameworks, and Problem Solving.</h4>
 
 ---
@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
@@ -29,9 +32,9 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+  -->
 </div>
 
 ---
@@ -74,14 +77,19 @@ Here are some ideas to get you started:
 - 🧠 [**AI Chatbot**](#) – Built using Python and OpenAI APIs.
 - 📱 [**Mobile Task Tracker**](#) – Flutter-based productivity app.
 -->
+### 🎯 My Current Focus
+- 🔍 Sharpening frontend expertise with React, TailwindCSS, and TypeScript
+- 💻 Practicing competitive programming and contributing to open source
+- 🚀 Building portfolio projects that solve real-world problems
+
 ---
 
 ### 🌐 Let's Connect
 <div align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/saadat-khan-461117347/)" target="_blank">
+  <a href="https://www.linkedin.com/in/saadat-khan-461117347/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="titanl740@gmail.com">
+  <a href="mailto:titanl740@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.instagram.com/your-instagram/" target="_blank">
@@ -94,17 +102,15 @@ Here are some ideas to get you started:
 
 ---
 
-### 📌 Fun Side
+### 💡 Fun Side
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="funny dev gif" />
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
-<br clear="both" />
-
-<!-- Optional fun animation (remove if applying to conservative jobs) -->
-<img src="https://github.com/Saadat-Khan/Saadat-Khan/blob/output/github-contribution-grid-snake.svg" />
+<!-- GitHub Snake Contribution Animation -->
+<img src="https://github.com/Saadat-Khan/Saadat-Khan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 
