@@ -104,6 +104,7 @@ Here are some ideas to get you started:
 <br clear="both" />
 
 <!-- Optional fun animation (remove if applying to conservative jobs) -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Saadat-Khan/Saadat-Khan/blob/output/github-contribution-grid-snake.svg" />
+
 
 
