@@ -107,7 +107,9 @@ Here are some ideas to get you started:
 ---
 
 <!-- GitHub Snake Contribution Animation -->
-<img src="https://github.com/Saadat-Khan/Saadat-Khan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/saadat-khan/Saadat-Khan/output/snake.svg" alt="Snake animation" />
 
 
 
