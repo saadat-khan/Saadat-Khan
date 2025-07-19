@@ -38,17 +38,10 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Saadat-Khan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=420" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Saadat-Khan&card_width=420&langs_count=8&theme=radical&hide_border=false" 
-    alt="Top Languages" 
-  />
-</div>
+### 🎯 My Current Focus
+- 🔍 Sharpening frontend expertise with React, TailwindCSS, and TypeScript
+- 💻 Practicing competitive programming and contributing to open source
+- 🚀 Building portfolio projects that solve real-world problems
 
 ---
 <!--
@@ -74,38 +67,29 @@ Here are some ideas to get you started:
 - 🧠 [**AI Chatbot**](#) – Built using Python and OpenAI APIs.
 - 📱 [**Mobile Task Tracker**](#) – Flutter-based productivity app.
 -->
-### 🎯 My Current Focus
-- 🔍 Sharpening frontend expertise with React, TailwindCSS, and TypeScript
-- 💻 Practicing competitive programming and contributing to open source
-- 🚀 Building portfolio projects that solve real-world problems
 
----
-<!--
-### 🌐 Let's Connect
-<div align="left">
-  <a href="https://www.linkedin.com/in/saadat-khan-461117347/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:titanl740@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
+### 📊 GitHub Stats
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Saadat-Khan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=420" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Saadat-Khan&card_width=420&langs_count=8&theme=radical&hide_border=false" 
+    alt="Top Languages" 
+  />
 </div>
- 
----
-  -->
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
 <!-- GitHub Snake Contribution Animation -->
 <img src="https://github.com/saadat-khan/Saadat-Khan/blob/output/github-contribution-grid-snake.svg" />
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
 
 
 
