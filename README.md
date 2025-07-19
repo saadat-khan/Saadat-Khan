@@ -101,9 +101,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 💡 Fun Side
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="funny dev gif" />
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
