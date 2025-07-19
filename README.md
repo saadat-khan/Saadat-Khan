@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="left">👋 Hi, I'm Saadat Khan — a passionate Computer Science and Engineering undergrad from Bangladesh.</h2>
-<h4 align="left">🌱 Currently focused on Web Development, Frontend Frameworks, and Problem Solving.</h4>
 
 ---
 
