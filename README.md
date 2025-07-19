@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 - 🚀 Building portfolio projects that solve real-world problems
 
 ---
-
+<!--
 ### 🌐 Let's Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/saadat-khan-461117347/" target="_blank">
@@ -98,8 +98,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
-
+ 
 ---
+  -->
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
