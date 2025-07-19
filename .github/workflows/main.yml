@@ -15,6 +15,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: Saadat-Khan
+          node-version: '12.13.0'
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # Deploy to GitHub Pages
