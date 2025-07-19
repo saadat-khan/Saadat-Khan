@@ -38,11 +38,10 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/apiSaadat-Khan=anuraghazra"/> 
+  <img src="https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langsSaadat-Khan=Saadat-Khan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="Top Languages" />
 </div>
-
-> 🎯 *Tip: Replace `your-username` above with your actual GitHub username.*
 
 ---
 
