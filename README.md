@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Saadat-Khan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
-    height="150" 
+    style="width: 420px;" 
     alt="GitHub Stats" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Saadat-Khan&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" 
-    height="150" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Saadat-Khan&layout=compact&card_width=420&langs_count=5&theme=radical&hide_border=false" 
+    style="width: 420px;" 
     alt="Top Languages" 
   />
 </div>
