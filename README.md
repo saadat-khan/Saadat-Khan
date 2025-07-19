@@ -41,13 +41,11 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Saadat-Khan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
-    style="width: 420px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Saadat-Khan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=420" 
     alt="GitHub Stats" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Saadat-Khan&layout=compact&card_width=420&langs_count=5&theme=radical&hide_border=false" 
-    style="width: 420px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Saadat-Khan&card_width=420&langs_count=8&theme=radical&hide_border=false" 
     alt="Top Languages" 
   />
 </div>
