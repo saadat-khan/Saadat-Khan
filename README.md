@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<h2 align="Left">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Saadat-Khan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=420" 
