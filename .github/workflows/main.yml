@@ -1,5 +1,8 @@
 name: Generate Datas
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */12 * * *"  # Runs every 12 hours at minute 0
