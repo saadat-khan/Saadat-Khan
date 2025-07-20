@@ -1,52 +1,41 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+# GitHub Action for generating a contribution graph with a snake eating your contributions
+name: 🐍 Generate Snake Contribution Animation
 
-# Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
-  
-  # Also run on every push on the master branch
   push:
     branches:
-    - main
+      - main  # Run on every push to main
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Clone repo
+      - name: 🧾 Clone repository
         uses: actions/checkout@v3
-    
-      - name: Generate the snake files in './dist/'
+
+      - name: 🐍 Generate Snake SVG and GIF
         uses: Platane/snk@v3
-        id: snake-gif
+        id: snake-animation
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.gif?color_snake=ff6f00&color_dots=#ffffff,#cce7ff,#99ceff,#66b5ff,#339bff
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Show build status
+      - name: 🧾 Show git status
         run: git status
 
-      - name: Push new files to the output branch
+      - name: 🚀 Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
+          commit_message: "📈 Update Snake Contribution Graph"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
