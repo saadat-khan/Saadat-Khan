@@ -12,38 +12,58 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">👋 Hi, I'm Saadat Khan — a passionate Computer Science and Engineering undergrad from Bangladesh.</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=saadat-khan.saadat-khan" />
 
----
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=FEE75C&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+👋;I'm+Saadat+Khan+👨‍💻;" 
+    alt="Typing SVG"
+  />
+</h1>
 
-### 🛠️ Languages and Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
+<h3 align="center">🚀 Empowering My Future Through Code – One Line at a Time</h3>
+
+<br/>
+
+<div align="center">
+
+🎓 I’m a Computer Science & Engineering undergrad at <strong>BRAC University</strong>, Bangladesh  
+🧠 Passionate about <strong>learning to code</strong> and solving real-world problems  
+💻 Currently diving into <strong>web development</strong>, <em>daily problem solving</em>, and personal projects  
+🌱 Always exploring new tech — and eager to grow every day  
+📌 Building projects that blend creativity, logic, and impact  
+  
+<br/>
+
+✨ <em>“The best way to predict the future is to invent it.”</em>
+
+</div>
+
+<div align="center"> 
+  <a href="mailto:titanl740@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/saadat-khan-461117347/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
   <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options
+  </a>
   -->
 </div>
 
 ---
 
-### 🎯 My Current Focus
-- 🔍 Sharpening frontend expertise with React, TailwindCSS, and TypeScript
-- 💻 Practicing competitive programming and contributing to open source
-- 🚀 Building portfolio projects that solve real-world problems
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java" /><br>
+</div>
 
----
+<br/>
+
 <!--
 ### 📌 GitHub Extra Pins
 <div align="center">
@@ -67,8 +87,19 @@ Here are some ideas to get you started:
 - 🧠 [**AI Chatbot**](#) – Built using Python and OpenAI APIs.
 - 📱 [**Mobile Task Tracker**](#) – Flutter-based productivity app.
 -->
+<hr/>
 
-### 📊 GitHub Stats
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="Left">📊 GitHub Stats</h2>
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Saadat-Khan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=420" 
@@ -79,11 +110,6 @@ Here are some ideas to get you started:
     alt="Top Languages" 
   />
 </div>
-
----
-
-<!-- GitHub Snake Contribution Animation -->
-<img src="https://github.com/saadat-khan/Saadat-Khan/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
