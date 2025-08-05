@@ -94,21 +94,24 @@ Here are some ideas to get you started:
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Saadat-Khan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=420" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Saadat-Khan&card_width=420&langs_count=8&theme=radical&hide_border=false" 
-    alt="Top Languages" 
-  />
+<a href="https://github-readme-stats.vercel.app/api?username=saadat-khan&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadat-khan&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+</a>
+<br/>
+<a href="https://nirzak-streak-stats.vercel.app/?user=saadat-khan&theme=radical&hide_border=false">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=saadat-khan&theme=radical&hide_border=false" />
+</a>
+<br/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=saadat-khan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadat-khan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</a>
 </div>
 
 ---
