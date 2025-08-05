@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=saadat-khan.saadat-khan" />
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saadat-khan.saadat-khan&"  />
+</div>
 
 <h1 align="center">
   <img 
