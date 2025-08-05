@@ -59,38 +59,41 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+        <br>VSCode
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <br/>
 
