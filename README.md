@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; GitHub Stats</h2>
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=saadat-khan&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
   <img src="https://github-readme-stats.vercel.app/api?username=saadat-khan&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
