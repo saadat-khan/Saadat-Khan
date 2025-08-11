@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   />
 </h1>
 
-<h3 align="center">🚀 Empowering My Future Through Code – One Line at a Time</h3>
+<h3 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpyMTh0ZGV0ZG80MHIwbzBwOGhwN29paXU1bHZ2NzQ0eHY3NjdiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HrRvnN7NuJy4InG4MV/giphy.gif" width ="20">&nbsp; Empowering My Future Through Code – One Line at a Time</h3>
 
 <br/>
 
