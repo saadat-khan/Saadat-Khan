@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm90Y25mZHFlc244dHltdnJzamt3NTB2NGt0NXg3a2IzajVqb3Z4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1etn2BmiW0nOgoZHTL/giphy.gif" width ="20">&nbsp; I’m a Computer Science & Engineering undergrad at <strong>BRAC University</strong>, Bangladesh  
-🧠 Passionate about <strong>learning to code</strong> and solving real-world problems  
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Yxem1icTQwdGc1bng4MzkyM3JmOGk0cnJyMDF4ZTczNHprcWs2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgLEFhGAt3giA9XMHk/giphy.gif" width ="20">&nbsp; Passionate about <strong>learning to code</strong> and solving real-world problems  
 💻 Currently diving into <strong>web development</strong>, <em>daily problem solving</em>, and personal projects  
 🌱 Always exploring new tech — and eager to grow every day  
 📌 Building projects that blend creativity, logic, and impact  
