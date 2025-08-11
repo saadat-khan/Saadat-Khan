@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA2aWg3MWJweW1sd2d3NWJtaHo4ZHRvcGtpaXFsa3NudDloamc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CTKDUUZR5Ivaxid3WY/giphy.gif" width ="30">&nbsp; My Contributions <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA2aWg3MWJweW1sd2d3NWJtaHo4ZHRvcGtpaXFsa3NudDloamc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CTKDUUZR5Ivaxid3WY/giphy.gif" width ="30">&nbsp;</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
