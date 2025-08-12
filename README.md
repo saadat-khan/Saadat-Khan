@@ -87,6 +87,10 @@ Here are some ideas to get you started:
         <br>HTML
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <br>CSS
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
         <br>VSCode
       </td>
