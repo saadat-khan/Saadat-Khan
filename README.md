@@ -166,7 +166,16 @@ Here are some ideas to get you started:
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
+<!--
+## 🪪 License
 
+This README.md and all creative content in this repository are licensed under the  
+**[Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.  
+© 2025 **Saadat Khan** — *All rights reserved.*
 
+> 🔒 You may view and fork this repository for personal use,  
+> but copying, redistributing, or modifying this content without permission is **strictly prohibited**.
+-->
 
+<!-- © 2025 Saadat Khan | Licensed under CC BY-NC-ND 4.0 -->
 
