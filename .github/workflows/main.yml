@@ -23,11 +23,12 @@ jobs:
           persist-credentials: true
           fetch-depth: 0
 
-      - name: 🐍 Generate Snake SVG and GIF
+      - name: 🐍 Generate Snake SVG and GIF (full profile for the year)
         uses: Platane/snk@v3
         id: snake-animation
         with:
           github_user_name: ${{ github.repository_owner }}
+          year: "2025"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -35,10 +36,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 🧾 Show git status
+      - name: 🧾 Show git status & recent commits
         run: |
           git status
-          git --no-pager log -n 3 --pretty=oneline || true
+          git --no-pager log -n 5 --pretty=oneline || true
 
       - name: 🚀 Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -48,9 +49,3 @@ jobs:
           commit_message: "📈 Update Snake Contribution Graph"
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-# Notes:
-# - permissions.contents: write is required so the built-in GITHUB_TOKEN can push.
-# - actions/checkout persists credentials so git push succeeds using GITHUB_TOKEN.
-# If you have branch protection rules on the 'output' branch that prevent pushes from workflows,
-# either allow GitHub Actions to push in branch protection settings or use a PAT stored in secrets.
