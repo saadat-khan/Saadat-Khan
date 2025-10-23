@@ -27,25 +27,43 @@ jobs:
         uses: Platane/snk@v3
         id: snake-animation
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: "saadat-khan"
           year: "2025"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=ff6f00&color_dots=#ffffff,#cce7ff,#99ceff,#66b5ff,#339bff
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use your PAT stored in repo secrets so private contributions are included
+          GITHUB_TOKEN: ${{ secrets.SNK_TOKEN }}
 
       - name: 🧾 Show git status & recent commits
         run: |
           git status
           git --no-pager log -n 5 --pretty=oneline || true
 
-      - name: 🚀 Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "📈 Update Snake Contribution Graph"
+      - name: Configure git author (so commits are attributed to you)
+        run: |
+          git config user.name "Saadat Khan"
+          git config user.email "111751224+saadat-khan@users.noreply.github.com"
+
+      - name: 🚀 Commit and push dist to output branch
+        run: |
+          git fetch origin output || true
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git checkout output
+            git rm -rf . || true
+          else
+            git checkout --orphan output
+          fi
+
+          cp -R dist/* . || true
+          git add -A
+          git commit -m "📈 Update Snake Contribution Graph" || echo "No changes to commit"
+          git push origin output --force
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # This push uses the built-in GITHUB_TOKEN which has push permissions when
+          # repository Actions permission is Read & write. If you run into 403,
+          # set repo Actions -> Workflow permissions to Read and write or use the PAT here instead:
+          # GITHUB_TOKEN: ${{ secrets.SNK_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
