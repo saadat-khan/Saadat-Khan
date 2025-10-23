@@ -9,12 +9,19 @@ on:
     branches:
       - main  # Run on every push to main
 
+# Give the workflow permission to write repository contents so the action can push
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: 🧾 Clone repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: 🐍 Generate Snake SVG and GIF
         uses: Platane/snk@v3
@@ -29,7 +36,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🧾 Show git status
-        run: git status
+        run: |
+          git status
+          git --no-pager log -n 3 --pretty=oneline || true
 
       - name: 🚀 Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -39,3 +48,9 @@ jobs:
           commit_message: "📈 Update Snake Contribution Graph"
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+# Notes:
+# - permissions.contents: write is required so the built-in GITHUB_TOKEN can push.
+# - actions/checkout persists credentials so git push succeeds using GITHUB_TOKEN.
+# If you have branch protection rules on the 'output' branch that prevent pushes from workflows,
+# either allow GitHub Actions to push in branch protection settings or use a PAT stored in secrets.
