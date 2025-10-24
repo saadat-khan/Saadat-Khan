@@ -28,14 +28,11 @@ jobs:
         id: snake-animation
         with:
           github_user_name: "saadat-khan"
-          year: "2025"
+          github_token: ${{ secrets.SNK_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=ff6f00&color_dots=#ffffff,#cce7ff,#99ceff,#66b5ff,#339bff
-        env:
-          # Use your PAT stored in repo secrets so private contributions are included
-          GITHUB_TOKEN: ${{ secrets.SNK_TOKEN }}
 
       - name: 🧾 Show git status & recent commits
         run: |
@@ -62,8 +59,4 @@ jobs:
           git commit -m "📈 Update Snake Contribution Graph" || echo "No changes to commit"
           git push origin output --force
         env:
-          # This push uses the built-in GITHUB_TOKEN which has push permissions when
-          # repository Actions permission is Read & write. If you run into 403,
-          # set repo Actions -> Workflow permissions to Read and write or use the PAT here instead:
-          # GITHUB_TOKEN: ${{ secrets.SNK_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
